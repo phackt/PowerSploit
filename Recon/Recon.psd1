@@ -71,6 +71,7 @@ FunctionsToExport = @(
     'Get-DomainGPOUserLocalGroupMapping',
     'Get-DomainGPOComputerLocalGroupMapping',
     'Get-DomainPolicy',
+    'Get-DomainPolicyData',
     'Get-NetLocalGroup',
     'Get-NetLocalGroupMember',
     'Get-NetShare',
